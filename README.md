@@ -1,8 +1,7 @@
-# cer-5
-# Hey, I'm Erika 
+# Hi! I'm Erika 
 
-CS student at Portland State University passionate about building 
-applications that enhance your everyday life and interactive experiences. 
+CS student @ Portland State University passionate about building 
+applications that enhance everyday life and interactive experiences. 
 Looking for software and UX-adjacent roles in the Portland area.
 
 ---
