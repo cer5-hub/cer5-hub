@@ -25,4 +25,4 @@ Looking for software and UX-adjacent roles in the Portland area.
 ---
 
 ## Connect
-[LinkedIn]((https://www.linkedin.com/in/cervantes-erika/ ) · [GitHub](https://github.com/cer5-hub)
+[LinkedIn](https://www.linkedin.com/in/cervantes-erika/ ) · [GitHub](https://github.com/cer5-hub)
