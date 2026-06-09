@@ -11,7 +11,7 @@ Looking for software and UX-adjacent roles in the Portland area.
 | Project | What it does | Stack |
 |---|---|---|
 | [jim-bro](https://github.com/cer5-hub/jimbro) | Voice fitness assistant that recommends exercises, injury prevention tips, and cool down stretches | Dialogflow, Node.js, Express, Wger API |
-| [Professional-Website]([https://github.com/cer5-hub/jimbro](https://github.com/cer5-hub/cer5-hub.github.io)| A single-page personal portfolio website built from scratch with HTML, CSS, and JavaScript | HTML5, CSS3 (custom properties, flexbox, grid), JavaScript (ES6), Bootstrap 5.3.3 |
+| [Professional-Website](https://github.com/cer5-hub/cer5-hub.github.io)| A single-page personal portfolio website built from scratch with HTML, CSS, and JavaScript | HTML5, CSS3 (custom properties, flexbox, grid), JavaScript (ES6), Bootstrap 5.3.3 |
 
 ---
 
